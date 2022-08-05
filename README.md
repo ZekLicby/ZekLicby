@@ -2,6 +2,7 @@
 ### Estou aqui para aprender o máximo que posso e tentar ser o melhor!
 
 -🧑‍💻 Cursando Sistemas para Internet.
+<br />
 -📚 Estudando: HTML5, CSS3, JavaScript, ReactJS, TypeScript, NextJS.
 
 <div align="center">
